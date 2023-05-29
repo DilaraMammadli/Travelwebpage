@@ -1,0 +1,13 @@
+@media screen and (max-width: 768px) {
+    .tablet_menu_toggler {
+      display: block;
+    }
+    header ul {
+      display: none;
+    }
+    :root {
+      --cards-per-row: 2;
+    }
+  }
+
+  
